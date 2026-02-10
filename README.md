@@ -7,7 +7,10 @@ Hey! Welcome to the Voting Dapp project. This is a decentralized voting applicat
 
 It's a full-stack dApp:
 - **Smart Contract**: Written in Rust using the Anchor framework.
+  <img width="1440" height="900" alt="Screenshot 2026-02-10 at 7 36 12 PM" src="https://github.com/user-attachments/assets/5364595e-fc7b-406e-a0d9-6a2a20c82034" />
+
 - **Frontend**: A Next.js app to interact with the contract.
+<img width="1440" height="900" alt="Screenshot 2026-02-10 at 7 37 58 PM" src="https://github.com/user-attachments/assets/d0db8970-0870-4de3-be7a-71d34bcfe87a" />
 
 ## Quick Start
 
